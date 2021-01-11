@@ -6,14 +6,14 @@ This is against Discord TOS, to use at your own risks.
 To use this bot, you must download:  
 • python 3+  
 • Chrome  
-• chromedriver with a compatible version with you Chrome version. https://chromedriver.chromium.org/  
+• chromedriver with a compatible version with your Chrome version. https://chromedriver.chromium.org/  
   
 Install this Python module:  
 • `pip install selenium`
 
 ## CONFIGURATION
 config.txt is the configuration file of the bot.  
-You must write on the first line, the absolute path to the chromedriver that you download.
+You must write on the first line, the absolute path to the chromedriver that you have downloaded.
 
 ## RUN
 `python3 autoclicker.py`  
