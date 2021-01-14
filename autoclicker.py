@@ -33,7 +33,7 @@ def main():
             items = driver.find_elements_by_xpath("//div[@class='reactionInner-15NvIl'][@aria-label='🙋, appuie pour réagir'][@aria-pressed='false'][@role='button']")
             for i in items:
                 #timer to be hide as a bot, can be removed if you want to be the first to sign
-                #sleep(randint(1,5))
+                sleep(randint(1,5))
                 i.click()
                 print("signed in !")
         except ElementNotInteractableException:
