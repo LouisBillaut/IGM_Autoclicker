@@ -2,6 +2,8 @@
 This bot allows automatic sign in on the "emargement" channel of IGM server.  
 This is against Discord TOS, to use at your own risks.
 
+This project is using Selenium, here is a headless version, with better performances, using discord.js: https://github.com/LouisBillaut/IGM_Autoreact_V2/  
+
 ## DOWLOADS
 To use this bot, you must download:  
 • python 3+  
